@@ -15,12 +15,19 @@ interface Printable {
 ```
 * classes
 ```
-pubic class Test {
+public class Test {
     public static void main (String[] args) {
     }
 }
 ```
 * exception types
+```
+public class DuplicateKeyException extends RuntimeException {
+  public DuplicateKeyException(){
+      super(s);
+  }
+}
+```
 * fields
 * methods
 * parameters
