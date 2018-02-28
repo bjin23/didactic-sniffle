@@ -1,10 +1,10 @@
 # X-Team 60 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Team 60's coding style guidelines will be mostly standard Java style conventions
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Our group will be using standard camelCase naming conventions (i.e. inOrder, toString, sortHelper)
 
 ### Examples
 * interfaces
