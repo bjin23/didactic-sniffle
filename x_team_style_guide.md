@@ -8,6 +8,11 @@ Our group will be using standard camelCase naming conventions (i.e. inOrder, toS
 
 ### Examples
 * interfaces
+```
+interface printable() {
+  void print();
+}
+```
 * classes
 * exception types
 * fields
