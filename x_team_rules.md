@@ -19,7 +19,7 @@ and missed deadlines.
 * The group leader will be expected to follow-up on individuals who do not follow the above guidelines
 * As stated above, a physical meeting will also occur if necessary. 
 
-## How will will communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 
 
 
