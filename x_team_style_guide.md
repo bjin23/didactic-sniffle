@@ -30,10 +30,22 @@ public class DuplicateKeyException extends RuntimeException {
 ```
 * fields
 * methods
+```
+private int getHeight() {
+    return height;
+}
+```
 * parameters
 * local variables
+```
+int height = 0;
+boolean balanced = false;
+```
 * instance constants
 * class constants
+```
+public static final String MY_CONSTANT = "hello world";
+```
 
 ## Commenting style for public and private members of a class or interface:
 
