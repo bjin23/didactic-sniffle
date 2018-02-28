@@ -9,7 +9,8 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+* The group leader will be the primary delegator of tasks, umtimately responsible for who does what
+  * It should be that whatever tasks that the group leader assigns is with the active consent of the person being assigned said task
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
