@@ -20,7 +20,7 @@ and missed deadlines.
 * As stated above, a physical meeting will also occur if necessary. 
 
 ## How we will communicate difficulties with a task assigned to us
-
+* Small issues should be quickly communicated and resolved through email or group chat. More substantial difficulties that cannot be resolved online will be dealt with during the physical meeting, where group members can brainstorm solutions and possibly reassign tasks. 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
