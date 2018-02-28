@@ -24,7 +24,8 @@ and missed deadlines.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+* Constant and frequent accountability updates to the general group and to the group leader specifically. Given that this is a small group, it would make sense that the group notify each member of the others' progress, so that everyone is on the same page as to what the group is behind on.
+  * This also means that there is more than one person (group leader) keeping other members in check at all times.
 
 
 
