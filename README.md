@@ -1,4 +1,4 @@
-# super-octo-system
+# didactic-sniffle
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
