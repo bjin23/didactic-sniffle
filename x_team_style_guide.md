@@ -15,7 +15,6 @@ interface Printable {
 ```
 * classes
 ```
-
 pubic class Test {
     public static void main (String[] args) {
     }
