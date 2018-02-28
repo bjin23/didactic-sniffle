@@ -14,7 +14,9 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+* Each individual will be in communication with the general group (through a group chat or email) about his/her progress every few days
+ * It is the responsibility of each individual to make sure at minimum the group leader is aware of of the level of progress of the individual's tasks
+* The group leader will be expected to follow-up on individuals who do not follow the above guidelines
 
 
 ## How will will communicate difficulties with a task assigned to us
