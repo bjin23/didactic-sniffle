@@ -12,7 +12,7 @@ and missed deadlines.
 * The group leader will be the primary delegator of tasks, ultimately responsible for who does what
   * It should be that whatever tasks that the group leader assigns is with the active consent of the person being assigned said task
 
-* After a reasonable amount of time (say, 1 week if the assignment is due in 2-3 weeks), the group will reconvene and everybody will report their progress on their delegated task. If some group member is struggling with a certain task, the group will discuss the difficulties of the task and either give the group member some advice about to approach the task, or some other group member will inherit the task. 
+* After a reasonable amount of time (say, 1 week if the assignment is due in 2-3 weeks), the group will reconvene and everybody will report their progress on their delegated task. If some group member is struggling with a certain task, the group will discuss the difficulties of the task and either give the group member some advice about how to approach the task, or some other group member will be assigned the task. 
 ## How will we will track progress (and follow-up) on completion of tasks
 * Each individual will be in communication with the general group (through a group chat or email) about his/her progress every few days
   * It is the responsibility of each individual to make sure at minimum the group leader is aware of of the level of progress of the individual's tasks
