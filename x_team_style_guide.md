@@ -63,14 +63,27 @@ public static final String MY_CONSTANT = "hello world";
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+Most commenting styles will follow standard commenting guidelines.
 
 ### Examples
 
 * classes
+
 * fields
 * constructors
 * methods
+'''
+/**
+* This method invokes toString() on any object passed through it.
+*
+* @param Object o - an object the user wants to passed through it
+* @throws IllegalArgumentException
+* @return - the Object o applied to toString()
+*/
+public String toString(Object o) throws IllegalArgumentException {
+  return o.toString();
+}
+'''
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
