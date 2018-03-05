@@ -72,7 +72,7 @@ Most commenting styles will follow standard commenting guidelines.
 * fields
 * constructors
 * methods
-'''
+```
 /**
 * This method invokes toString() on any object passed through it.
 *
@@ -83,7 +83,7 @@ Most commenting styles will follow standard commenting guidelines.
 public String toString(Object o) throws IllegalArgumentException {
   return o.toString();
 }
-'''
+```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
