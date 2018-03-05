@@ -77,7 +77,7 @@ Most commenting styles will follow standard commenting guidelines.
 * This method invokes toString() on any object passed through it.
 *
 * @param Object o - an object the user wants to passed through it
-* @throws IllegalArgumentException
+* @throws IllegalArgumentException if null is passed to toString()
 * @return - the Object o applied to toString()
 */
 public String toString(Object o) throws IllegalArgumentException {
