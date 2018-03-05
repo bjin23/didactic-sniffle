@@ -78,27 +78,27 @@ public class Dictionary{
 ```
 * fields
 ```
-\\ counter variable for number of items in tree
+// counter variable for number of items in tree
 int count = 0;
 
-\\ constant for number of ASCII characters
+// constant for number of ASCII characters
 private static final int ASCII_COUNT = 128;
 ```
 * constructors
 ```
 /**
-     * Constructs a DefinitionNode with the specified word and meaning.
-     * @param word The word associated with this definition
-     * @param meaning The meaning of that word
-     * @throws IllegalArgumentException when the word or meaning are either
-     *   references to an empty string or null references.
-     */
-    public DefinitionNode(String word, String meaning) { 
-        
-        this.word = word;
-        this.meaning = meaning;
-        
-    }
+* Constructs a DefinitionNode with the specified word and meaning.
+* @param word The word associated with this definition
+* @param meaning The meaning of that word
+* @throws IllegalArgumentException when the word or meaning are either
+*   references to an empty string or null references.
+*/
+public DefinitionNode(String word, String meaning) { 
+
+this.word = word;
+this.meaning = meaning;
+
+}
 ```
 * methods
 ```
