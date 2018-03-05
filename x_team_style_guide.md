@@ -29,6 +29,10 @@ public class DuplicateKeyException extends RuntimeException {
 }
 ```
 * fields
+```
+private int height;
+private boolean visited;
+```
 * methods
 ```
 private int getHeight() {
@@ -36,12 +40,22 @@ private int getHeight() {
 }
 ```
 * parameters
+```
+public void insert(K key) {
+}
+
+public void sort(List list) {
+}
+```
 * local variables
 ```
 int height = 0;
 boolean balanced = false;
 ```
 * instance constants
+```
+private final String EXAMPLE_NAME = "example";
+```
 * class constants
 ```
 public static final String MY_CONSTANT = "hello world";
