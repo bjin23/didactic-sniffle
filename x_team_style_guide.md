@@ -86,7 +86,41 @@ public String toString(Object o) throws IllegalArgumentException {
 ```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+  ```
+  if (item == null) {
+      throw IllegalArgumentException();
+  }
+  ```
   * switch statement
+  ```
+  switch (name) {
+      case "Alice":
+          message = "Congrats! You got 1st place!"
+          break;
+      case "Bob":
+          message = "Nice! You got 2nd place!"
+          break;
+      case "Cecil":
+          message = "You got 3rd place...out of 3 people."
+          break;
+      default:
+          message = "You didn't participate."
+  }
+  ```
   * while loops
+  ```
+  while (!q.isEmpty()) {
+  
+  }
+  ```
   * for loops
+  ```
+  for (int i = 0; i < n; i++) {
+      
+  }
+  ```
   * enhanced for loops
+  for (Integer i : list) {
+  
+  }
+  ```
