@@ -120,6 +120,7 @@ public String toString(Object o) throws IllegalArgumentException {
   }
   ```
   * enhanced for loops
+  ```
   for (Integer i : list) {
   
   }
